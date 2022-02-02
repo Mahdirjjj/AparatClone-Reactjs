@@ -1,0 +1,24 @@
+/*
+ *
+ * LoginPage constants
+ *
+ */
+
+export const LOGIN_ACTION = 'app/LoginPage/LOGIN_ACTION';
+export const LOGIN_SUCCESS_ACTION = 'app/LoginPage/LOGIN_SUCCESS_ACTION';
+export const LOGIN_FAIL_ACTION = 'app/LoginPage/LOGIN_FAIL_ACTION';
+export const LOGIN_REINIT = 'app/LoginPage/LOGIN_REINIT';
+
+export const REGISTER_USER_ACTION = 'app/LoginPage/REGISTER_USER_ACTION';
+export const REGISTER_USER_SUCCESS_ACTION =
+  'app/LoginPage/REGISTER_USER_SUCCESS_ACTION';
+export const REGISTER_USER_FAIL_ACTION =
+  'app/LoginPage/REGISTER_USER_FAIL_ACTION';
+export const REGISTER_USER_REINIT = 'app/LoginPage/REGISTER_USER_REINIT';
+
+export const REGISTER_USER_VERIFY_ACTION =
+  'app/LoginPage/REGISTER_USER_VERIFY_ACTION';
+export const REGISTER_USER_VERIFY_SUCCESS_ACTION =
+  'app/LoginPage/REGISTER_USER_VERIFY_SUCCESS_ACTION';
+export const REGISTER_USER_VERIFY_FAIL_ACTION =
+  'app/LoginPage/REGISTER_USER_VERIFY_FAIL_ACTION';
